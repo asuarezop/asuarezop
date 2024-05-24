@@ -6,6 +6,11 @@
 </a>
 <a href="https://medium.com/@asuarezop" rel="nofollow"><img alt="Medium: @asuarezop" src="https://img.shields.io/badge/medium-%23000000?style=for-the-badge&logo=medium&logoColor=%23ffff&logoSize=auto&link=https://medium.com/@asuarezop"></a>
 
+## About Me
+Fellow BrainStation bootcamp grad in software engineering 😎 with 3+ yrs customer service experience working in retail and healthcare. Currently, building my skills in frontend development (React, JavaScript, HTML, and CSS).
+
+On occasions, you can find me losing track of time 🎹 making music or 📚 learning new topics online. Also, have a love/hate relationship with Destiny 2. 😤
+
 - 🔭 I’m currently working on Contact-App
 - 🌱 I’m currently learning AWS 
 - 👯 I’m looking to collaborate on open-source projects and freelance website projects
@@ -13,3 +18,30 @@
 - 💬 Ask me about React
 - 📫 How to reach me: asuarezop@gmail.com
 - ⚡ Fun fact: I'm a huge fan of One Piece!
+
+## Technologies
+<div>
+<img alt="JavaScript Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23230000&logoSize=auto">
+<img alt="React Badge" src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&color=%23202329">
+<img alt="HTML5 Badge" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffff&logoSize=auto&color=%23E34F26">
+<img alt="CSS3 Badge" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23ffff&logoSize=auto&color=%231572B6">
+<img alt="SASS Badge" src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23ffff&logoSize=auto&color=%23CC6699">
+<img alt="NodeJS Badge" src="https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=%23ffff&logoSize=auto&color=%235FA04E">
+<img alt="ExpressJS Badge" src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=%23ffff&logoSize=auto&color=%23000000">
+<img alt="MySQL Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffff&logoSize=auto&color=%234479A1">
+<img alt="Git Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffff&logoSize=auto&color=%23F05032">
+<img alt="Github Badge" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=%23ffff&logoSize=auto&color=%23181717">
+<img alt="P5.js Badge" src="https://img.shields.io/badge/p5-%23ED225D?style=for-the-badge&logo=p5.js&logoColor=%23ffff&logoSize=auto&color=%23ED225D">
+<img alt="Axios Badge" src="https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=%23ffff&logoSize=auto&color=%235A29E4">
+<img alt="jQuery Badge" src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%23ffff&logoSize=auto&color=%230769AD">
+<img alt="Heroku Badge" src="https://img.shields.io/badge/heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=%23ffff&logoSize=auto&color=%23430098">
+<img alt="Netlify Badge" src="https://img.shields.io/badge/netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=%23ffff&logoSize=auto&color=%2300C7B7">
+<img alt="Passport Badge" src="https://img.shields.io/badge/passport-%2334E27A?style=for-the-badge&logo=passport&logoColor=%23ffff&logoSize=auto&color=%2334E27A">
+<img alt="AWS Badge" src="https://img.shields.io/badge/amazonaws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=%23ffff&logoSize=auto&color=%23232F3E">
+<img alt="NPM Badge" src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=%23ffff&logoSize=auto&color=%23CB3837">
+<img alt="Visual Studio Code Badge" src="https://img.shields.io/badge/visual_studio_code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=%23ffff&logoSize=auto&color=%23007ACC">
+
+</div>
+
+
+
