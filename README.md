@@ -1,4 +1,12 @@
-### Hi, I'm Anthony 👋
+# Hi, I'm Anthony Suarez 👋
+<a href="https://www.linkedin.com/in/asuarez00/" rel="nofollow"><img alt="LinkedIn: asuarezop" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23ffff&logoSize=auto&link=https://www.linkedin.com/in/asuarez00/"></a>
+<a href="mailto:asuarezop@gmail.com">
+<img alt="Gmail: asuarezop@gmail.com" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23ffff&logoSize=auto&link=mailto:asuarezop@gmail.com">
+</a>
+<a href="https://twitter.com/asuarez_op" rel="nofollow">
+<img alt="Twitter: @asuarez_op" src="https://img.shields.io/badge/twitter-%231D9BF0?style=for-the-badge&logo=twitter&logoColor=%23ffff&logoSize=auto&link=https://twitter.com/asuarez_op">
+</a>
+
 
 - 🔭 I’m currently working on Contact-App
 - 🌱 I’m currently learning AWS 
